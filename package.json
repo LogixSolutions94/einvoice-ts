@@ -1,0 +1,26 @@
+{
+  "name": "einvoice-ts",
+  "version": "0.0.1",
+  "description": "EN 16931 e-invoicing for TypeScript: CII & UBL generation and parsing, Schematron validation, PDF/A-3 (Factur-X / ZUGFeRD)",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "node --test"
+  },
+  "keywords": [
+    "e-invoicing",
+    "EN16931",
+    "factur-x",
+    "zugferd",
+    "cii",
+    "ubl",
+    "pdf-a3",
+    "schematron"
+  ],
+  "engines": {
+    "node": ">=20"
+  }
+}
