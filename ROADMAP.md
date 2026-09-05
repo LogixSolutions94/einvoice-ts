@@ -20,5 +20,5 @@ Seven milestones, each independently verifiable. Effort estimates assume one exp
 
 ## Maintainer outreach log
 
-- `node-zugferd` — contacted September 2026 (joining forces vs. complementary implementation). Outcome: pending.
-- `@stafyniaksacha/facturx` — contacted September 2026. Outcome: pending.
+- `node-zugferd` — outreach planned before the NLnet submission (September-October 2026); outcome will be recorded here.
+- `@stafyniaksacha/facturx` — outreach planned before the NLnet submission; outcome will be recorded here.
