@@ -20,5 +20,5 @@ Seven milestones, each independently verifiable. Effort estimates assume one exp
 
 ## Maintainer outreach log
 
-- `node-zugferd` — outreach planned before the NLnet submission (September-October 2026); outcome will be recorded here.
-- `@stafyniaksacha/facturx` — outreach planned before the NLnet submission; outcome will be recorded here.
+- `node-zugferd` — issue opened 5 September 2026: https://github.com/jslno/node-zugferd/issues/121 (joining forces vs. complementary implementation). Outcome will be recorded here.
+- `@stafyniaksacha/facturx` — issue opened 5 September 2026: https://github.com/stafyniaksacha/facturx/issues/16. Outcome will be recorded here.
